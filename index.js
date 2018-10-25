@@ -104,4 +104,4 @@ if(msg.content === 'r-support'){
 
 });
 
-c.login('NTA0OTUxNTQ4MjMzOTA4MjM1.DrMg4w.cbj8Ypq3J3gYqUEITicaHjFBo9w')
+  c.login(process.env.TOKEN)
